@@ -1,0 +1,29 @@
+header{
+
+font-size: 30px;
+padding: 20px;
+text-align:center;
+}
+main{
+      margin-left: 20px;
+        width: 100%;
+        
+}
+.Gallary{
+background-color:white;
+	
+float:left;
+width: 38.33%;
+padding: 20px;
+margin:20px;
+margin-left:20px;   
+ text-align:center;
+}
+
+img{
+	float:left;
+ width: 400px;
+ height:400px;
+    border-radius: 4px;
+
+}
